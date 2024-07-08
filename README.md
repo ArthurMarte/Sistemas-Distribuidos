@@ -36,14 +36,3 @@ Este repositório contém todos os trabalhos práticos realizados na disciplina 
    ```
 3. Execute os scripts conforme as instruções de cada trabalho prático.
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Isso fornecerá uma visão clara e estruturada do conteúdo do repositório para quem visitar a página.
